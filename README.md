@@ -18,11 +18,14 @@ MACOSX
 
 -> Run perl -v in the terminal to check the version of perl installed on the machine (perl is pre-installed in MACOSX).
 LINUX
+
 -> Run perl -v in the terminal to check the version of perl installed on the machine (perl is pre-installed in Linux).
 WINDOWS
 
 -> Go to www.padre.perlide.org to download Padre, the Perl IDE along with Strawberry Perl and install them on the machine.
+
 2) Install Tk.
+
 -> Go to your terminal ( PERL Command Line for windows ) and Type in:
      * cpan install Tk  - To install Tk Module
 3) Copy the perlfinal.pl to a New Folder on your machine.
