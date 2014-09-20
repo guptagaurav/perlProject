@@ -5,6 +5,8 @@ Gaurav Gupta
 
 Introduction
 This is a project where we have to write a script that takes a directory name as its argument, creates a new sub-directory called executable and graphics within it, then scans the directory and all its sub-directories looking for executable and graphic files and moves them into the new sub-directory. In this project, we use the Perl Language and two of its module to achieve this objective.
+
+
 Documentation
 We have to follow the given steps in the order given below to use this problem statement - 
 INSTALLATION
